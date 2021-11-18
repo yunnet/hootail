@@ -1,0 +1,2 @@
+# hootail
+pure go log
